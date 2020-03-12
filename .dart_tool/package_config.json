@@ -56,12 +56,6 @@
       "languageVersion": "2.0"
     },
     {
-      "name": "dio",
-      "rootUri": "file:///Users/hamitseyrek/development/flutter/.pub-cache/hosted/pub.dartlang.org/dio-3.0.9",
-      "packageUri": "lib/",
-      "languageVersion": "2.4"
-    },
-    {
       "name": "firebase",
       "rootUri": "file:///Users/hamitseyrek/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase-7.2.1",
       "packageUri": "lib/",
@@ -132,12 +126,6 @@
       "rootUri": "file:///Users/hamitseyrek/development/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "2.0"
-    },
-    {
-      "name": "google_map_polyline",
-      "rootUri": "file:///Users/hamitseyrek/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_polyline-0.2.0+1",
-      "packageUri": "lib/",
-      "languageVersion": "2.1"
     },
     {
       "name": "google_maps_flutter",
@@ -278,7 +266,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-03-12T06:44:29.547892Z",
+  "generated": "2020-03-12T06:49:26.846325Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }
