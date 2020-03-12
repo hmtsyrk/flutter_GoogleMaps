@@ -9,7 +9,7 @@ class PlaceService {
   static Future<List<PlaceItemRes>> searchPlace(String keyword) async {
     String url =
         "https://maps.googleapis.com/maps/api/place/textsearch/json?key=" +
-            "AIzaSyCYIxAFiMmIyDM6fhuLpASDFtGVuGc2Mu0" +
+            "GoogleApiKey" +
             "&language=vi&region=VN&query=" +
             Uri.encodeQueryComponent(keyword);
 
@@ -41,7 +41,7 @@ class PlaceService {
         "?" +
         parameters +
         "&key="
-         + "AIzaSyCYIxAFiMmIyDM6fhuLpASDFtGVuGc2Mu0";
+         + "GoogleApiKey";
 
     print(url);
     final JsonDecoder _decoder = new JsonDecoder();
