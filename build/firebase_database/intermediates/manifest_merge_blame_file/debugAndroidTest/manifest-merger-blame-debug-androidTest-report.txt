@@ -1,0 +1,94 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.flutter.plugins.firebase.database.test" >
+4
+5    <uses-sdk
+5-->/Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/tmp/manifest/androidTest/debug/manifestMerger6165350629140297350.xml:5:5-74
+6        android:minSdkVersion="16"
+6-->/Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/tmp/manifest/androidTest/debug/manifestMerger6165350629140297350.xml:5:15-41
+7        android:targetSdkVersion="16" />
+7-->/Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/tmp/manifest/androidTest/debug/manifestMerger6165350629140297350.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/tmp/manifest/androidTest/debug/manifestMerger6165350629140297350.xml:11:5-15:91
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/tmp/manifest/androidTest/debug/manifestMerger6165350629140297350.xml:11:22-76
+11        android:functionalTest="false"
+11-->/Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/tmp/manifest/androidTest/debug/manifestMerger6165350629140297350.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/tmp/manifest/androidTest/debug/manifestMerger6165350629140297350.xml:13:22-53
+13        android:label="Tests for io.flutter.plugins.firebase.database.test"
+13-->/Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/tmp/manifest/androidTest/debug/manifestMerger6165350629140297350.xml:15:22-89
+14        android:targetPackage="io.flutter.plugins.firebase.database.test" />
+14-->/Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/tmp/manifest/androidTest/debug/manifestMerger6165350629140297350.xml:12:22-87
+15    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+16    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.firebase:firebase-database:17.0.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/388b2c3f3e698cde22ee7f00fbfd40de/jetified-firebase-database-17.0.0/AndroidManifest.xml:25:5-79
+17-->[com.google.firebase:firebase-database:17.0.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/388b2c3f3e698cde22ee7f00fbfd40de/jetified-firebase-database-17.0.0/AndroidManifest.xml:25:22-76
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->[com.google.firebase:firebase-database:17.0.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/388b2c3f3e698cde22ee7f00fbfd40de/jetified-firebase-database-17.0.0/AndroidManifest.xml:26:5-67
+18-->[com.google.firebase:firebase-database:17.0.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/388b2c3f3e698cde22ee7f00fbfd40de/jetified-firebase-database-17.0.0/AndroidManifest.xml:26:22-64
+19
+20    <application
+20-->/Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/tmp/manifest/androidTest/debug/manifestMerger6165350629140297350.xml:7:5-9:19
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.0.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/78d13a1052de831f78ea27d603b3b48b/core-1.0.0/AndroidManifest.xml:22:18-86
+22        android:debuggable="true" >
+22-->/Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/tmp/manifest/androidTest/debug/manifestMerger6165350629140297350.xml:7:18-43
+23        <uses-library android:name="android.test.runner" />
+23-->/Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/tmp/manifest/androidTest/debug/manifestMerger6165350629140297350.xml:8:9-60
+23-->/Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/tmp/manifest/androidTest/debug/manifestMerger6165350629140297350.xml:8:23-57
+24
+25        <service android:name="com.google.firebase.components.ComponentDiscoveryService" >
+25-->[__tested_artifact__::firebase_database] /Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+25-->[__tested_artifact__::firebase_database] /Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+26            <meta-data
+26-->[__tested_artifact__::firebase_database] /Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+27                android:name="com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar"
+27-->[__tested_artifact__::firebase_database] /Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-127
+28                android:value="com.google.firebase.components.ComponentRegistrar" />
+28-->[__tested_artifact__::firebase_database] /Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+29            <meta-data
+29-->[com.google.firebase:firebase-database:17.0.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/388b2c3f3e698cde22ee7f00fbfd40de/jetified-firebase-database-17.0.0/AndroidManifest.xml:30:13-32:85
+30                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+30-->[com.google.firebase:firebase-database:17.0.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/388b2c3f3e698cde22ee7f00fbfd40de/jetified-firebase-database-17.0.0/AndroidManifest.xml:31:17-109
+31                android:value="com.google.firebase.components.ComponentRegistrar" />
+31-->[com.google.firebase:firebase-database:17.0.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/388b2c3f3e698cde22ee7f00fbfd40de/jetified-firebase-database-17.0.0/AndroidManifest.xml:32:17-82
+32            <meta-data
+32-->[:firebase_core] /Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+33                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
+33-->[:firebase_core] /Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+34                android:value="com.google.firebase.components.ComponentRegistrar" />
+34-->[:firebase_core] /Users/hamitseyrek/arjinProject/my-Project/myGitHubHmtsyrkRepositoryProject/flutter_map/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+35        </service>
+36
+37        <activity
+37-->[com.google.android.gms:play-services-base:16.0.1] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/e5d3acdda77914d59c74bd95f76725d1/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+38            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+38-->[com.google.android.gms:play-services-base:16.0.1] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/e5d3acdda77914d59c74bd95f76725d1/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+39            android:exported="false"
+39-->[com.google.android.gms:play-services-base:16.0.1] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/e5d3acdda77914d59c74bd95f76725d1/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+40            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+40-->[com.google.android.gms:play-services-base:16.0.1] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/e5d3acdda77914d59c74bd95f76725d1/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+41
+42        <provider
+42-->[com.google.firebase:firebase-common:17.0.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/2c0ec92d4d80a463da9b7638397ecf25/jetified-firebase-common-17.0.0/AndroidManifest.xml:12:9-16:39
+43            android:name="com.google.firebase.provider.FirebaseInitProvider"
+43-->[com.google.firebase:firebase-common:17.0.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/2c0ec92d4d80a463da9b7638397ecf25/jetified-firebase-common-17.0.0/AndroidManifest.xml:13:13-77
+44            android:authorities="io.flutter.plugins.firebase.database.test.firebaseinitprovider"
+44-->[com.google.firebase:firebase-common:17.0.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/2c0ec92d4d80a463da9b7638397ecf25/jetified-firebase-common-17.0.0/AndroidManifest.xml:14:13-72
+45            android:exported="false"
+45-->[com.google.firebase:firebase-common:17.0.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/2c0ec92d4d80a463da9b7638397ecf25/jetified-firebase-common-17.0.0/AndroidManifest.xml:15:13-37
+46            android:initOrder="100" />
+46-->[com.google.firebase:firebase-common:17.0.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/2c0ec92d4d80a463da9b7638397ecf25/jetified-firebase-common-17.0.0/AndroidManifest.xml:16:13-36
+47
+48        <meta-data
+48-->[com.google.android.gms:play-services-basement:16.1.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/c66f1b0bd7561e32447f18b5e88d72ac/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+49            android:name="com.google.android.gms.version"
+49-->[com.google.android.gms:play-services-basement:16.1.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/c66f1b0bd7561e32447f18b5e88d72ac/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
+50            android:value="@integer/google_play_services_version" />
+50-->[com.google.android.gms:play-services-basement:16.1.0] /Users/hamitseyrek/.gradle/caches/transforms-2/files-2.1/c66f1b0bd7561e32447f18b5e88d72ac/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+51    </application>
+52
+53</manifest>

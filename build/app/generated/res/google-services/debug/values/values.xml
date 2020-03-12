@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">613884054702-tcjh0ovgvjpana4p5hqhs07hdtb4u727.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://arjcar.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">613884054702</string>
+    <string name="google_api_key" translatable="false">AIzaSyBc_537yvejUmwdz3D5R0k0cUFGyMicNO8</string>
+    <string name="google_app_id" translatable="false">1:613884054702:android:4df639552bca2a3165f13f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBc_537yvejUmwdz3D5R0k0cUFGyMicNO8</string>
+    <string name="google_storage_bucket" translatable="false">arjcar.appspot.com</string>
+    <string name="project_id" translatable="false">arjcar</string>
+</resources>

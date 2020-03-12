@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "613884054702",
+    "firebase_url": "https://arjcar.firebaseio.com",
+    "project_id": "arjcar",
+    "storage_bucket": "arjcar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613884054702:android:4df639552bca2a3165f13f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613884054702-tcjh0ovgvjpana4p5hqhs07hdtb4u727.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc_537yvejUmwdz3D5R0k0cUFGyMicNO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613884054702-tcjh0ovgvjpana4p5hqhs07hdtb4u727.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "613884054702-gjdv6kokekb2asoj3ec975sgb6h1g2p4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterMap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
